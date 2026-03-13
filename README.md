@@ -28,6 +28,15 @@ Most online PDF tools require you to upload your sensitive documents to their se
 
 ---
 
+### Quick Start (Frontend)
+For a one-click setup and launch, you can use the provided shell script:
+
+1. `cd frontend`
+2. `chmod +x start.sh`  # Make the script executable
+3. `./start.sh`         # Run it!
+
+This script automatically checks for dependencies, installs them if they are missing, and launches the development server in your browser.
+
 ## What's Next?
 I am just getting started! **Stay updated** as I roll out new versions. Future releases will include:
 * 🔒 Advanced Encryption/Decryption.
